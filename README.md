@@ -7,11 +7,8 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 The goal of the project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.
 
 
-## Download datasets
+## Generate the REPORT
 
-~ 12.2 Mb (not included in this repo)
+Simply open `project.Rmd` on **rstudio** and build the [shiny](http://shiny.rstudio.com/) report
 
-```r
-source('fetchData.R')
-fetchData()
-```
+Download the ~12MB of data has the speed of your network, the function caret::train it take a couple of hours on my 4core ;)
