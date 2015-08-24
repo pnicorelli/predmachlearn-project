@@ -9,6 +9,6 @@ The goal of the project is to predict the manner in which they did the exercise.
 
 ## Generate the REPORT
 
-Simply open `project.Rmd` on **rstudio** and build the [shiny](http://shiny.rstudio.com/) report
+Simply open `project.Rmd` with **rstudio** and build the [shiny](http://shiny.rstudio.com/) report
 
 Download the ~12MB of data has the speed of your network, the function caret::train it take a couple of hours on my 4core ;)
